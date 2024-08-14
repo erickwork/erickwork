@@ -34,5 +34,3 @@
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-
-<img src="https://raw.githubusercontent.com/erickwork/erickwork/output/snake.svg" alt="Snake animation"/>
